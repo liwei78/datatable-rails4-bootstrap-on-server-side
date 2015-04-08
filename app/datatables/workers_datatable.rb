@@ -27,7 +27,6 @@ private
         worker.city,
         worker.age,
         number_to_currency(worker.salary),
-        worker.skill_list
       ]
     end
   end
